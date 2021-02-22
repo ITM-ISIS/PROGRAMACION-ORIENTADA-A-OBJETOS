@@ -1,10 +1,10 @@
-Capturar las ventas mensuales de una empresa durante un año determinado,
-al final calcule el promedio anual de ventas y muestre el nombre del mes con la venta mayor así como el mes con la venta menor.
+## Capturar las ventas mensuales de una empresa durante un año determinado,
+## al final calcule el promedio anual de ventas y muestre el nombre del mes con la venta mayor así como el mes con la venta menor.
 
 
-# > Run as 1 Java Application >> 
+ > Run as 1 Java Application >> 
 #    prueba de escritorio
-# 
+ 
 ```console
 Se Creo el Vector desde el constructor Empresa
 
